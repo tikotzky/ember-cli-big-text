@@ -2,6 +2,9 @@
 
 ember-cli-big-text is a component that wraps the jQuery [BigText](https://github.com/zachleat/BigText) plugin.helper.
 
+### Projects using ember-cli-big-text
+[https://github.com/tikotzky/smpl-tmr](https://github.com/tikotzky/smpl-tmr)
+
 ## Installation
 
 ```
