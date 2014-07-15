@@ -3,7 +3,6 @@
   "description": "adds a bigtext component to an ember-cli app",
   "version": "0.0.1",
   "ember-addon-main": "lib/ember-cli-big-text.js",
-  "private": true,
   "directories": {
     "doc": "doc",
     "test": "test"
